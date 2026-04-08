@@ -1,4 +1,4 @@
-# Weekly 1:1 Updates Plugin - For Claude
+# 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
 **Required Connectors :**
 
