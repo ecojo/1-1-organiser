@@ -1,5 +1,14 @@
 # Weekly 1:1 Updates Plugin - For Claude
 
+**Required Connectors :**
+
+Required:
+Atlassian (JIRA + Confluence)
+Microsoft 365 (Outlook for feedback emails)
+Optional:
+Slack (for team notifications)
+Teams (for team notifications)
+
 **Quick Install:**
 1. Download `weekly-1-1-updates.plugin` from this repo
 2. Drag & drop into your Cowork chat
