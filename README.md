@@ -1,4 +1,4 @@
-# Weekly 1:1 Updates Plugin
+# Weekly 1:1 Updates Plugin - For Claude
 
 **Quick Install:**
 1. Download `weekly-1-1-updates.plugin` from this repo
