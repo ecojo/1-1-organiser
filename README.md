@@ -49,7 +49,7 @@ Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feed
 
 ### Step 1: Run Setup Wizard (Manager Only)
 
-The manager should run the **Setup Wizard** skill first:
+The manager should run the **Setup Wizard** skill first or drag and drop the weekly-1-1-updates.plugin into Claude Cowork:
 
 1. Click the plugin → select "Setup Wizard" skill
 2. Answer questions about your team:
