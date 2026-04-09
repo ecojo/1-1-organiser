@@ -1,8 +1,8 @@
-# Octopus Weekly 1:1 Updates Plugin — Setup Guide
+# 🐙 Octopus Weekly 1:1 Updates Plugin — Setup Guide
 
 ## Overview
 
-This plugin automates your team's weekly 1:1 prep. It pulls JIRA updates, manager feedback emails, and previous 1:1 notes to generate structured summaries—saving hours per week per person.
+This claude plugin automates your team's weekly 1:1 prep. It pulls JIRA updates, manager feedback emails, and previous 1:1 notes to generate structured summaries—saving hours per week per person.
 
 **Two modes:**
 - **Manager mode**: Pull all your direct reports' updates before back-to-back 1:1s or on the day of scheduled seperate day 1:1s
