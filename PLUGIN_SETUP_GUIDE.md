@@ -1,4 +1,4 @@
-# 🐙 Octopus Weekly 1:1 Updates Claude Plugin — Setup Guide
+# 🐙 Octopus Weekly 1:1 Updates - Claude Plugin — Setup Guide
 
 ## Overview
 
