@@ -1,9 +1,9 @@
-# 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
+# Octo 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
 
 **WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan**
 
-:robot: :octopus: :octopus: :wrench:
+:octopus: :wrench:
 ---
 
 **Ready to get started?**
