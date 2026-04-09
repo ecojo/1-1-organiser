@@ -89,15 +89,15 @@ After setup, your Confluence space looks like:
 
 ```
 Weekly Feedback (Space)
-├── David Hoffm 1:1s
+├── David Hoffmann 1:1s
 │   └── 2026
 │       ├── David Hoffmann - Manager 1:1 - 01 Apr 2026
 │       ├── David Hoffmann - Manager 1:1 - 08 Apr 2026
 │       └── ...
-├── Sarah Che 1:1s
+├── Sarah Chen 1:1s
 │   └── 2026
 │       └── ...
-└── Jordan Smi 1:1s
+└── Jordan Smith 1:1s
     └── 2026
         └── ...
 ```
