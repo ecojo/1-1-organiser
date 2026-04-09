@@ -5,7 +5,7 @@
 This plugin automates your team's weekly 1:1 prep. It pulls JIRA updates, manager feedback emails, and previous 1:1 notes to generate structured summaries—saving hours per week per person.
 
 **Two modes:**
-- **Manager mode**: Pull all your direct reports' updates before back-to-back 1:1s
+- **Manager mode**: Pull all your direct reports' updates before back-to-back 1:1s or on the day of scheduled seperate day 1:1s
 - **Employee mode**: Prep your own 1:1 update before your meeting with your manager
 
 ---
