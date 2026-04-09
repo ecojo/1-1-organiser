@@ -1,4 +1,4 @@
-# Octo 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
+# :octopus: Octopus 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
 
 **WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan with your Manager/employees**
@@ -6,7 +6,7 @@
 :octopus: :wrench:
 ---
 
-**Ready to get started with Octo 1-1 organiser?**
+**Ready to get started with Octopus 1-1 organiser?**
 
 For managers: Run the **Setup Wizard** skill to configure your team or simply drag and drop the weekly-1-1-updates.plugin into your **Claude Cowork task** to start the configuration setup wizard.
 
@@ -34,7 +34,7 @@ Teams (for team notifications)
 [Full setup guide →](PLUGIN_SETUP_GUIDE.md)
 
 
-# Octo Weekly 1:1 Updates Plugin
+# :octopus: Octopus Weekly 1:1 Updates Plugin
 
 Automate your team's weekly 1:1 updates. Pull JIRA, Confluence, and manager feedback automatically to generate employee 1:1 prep or consolidate all team reports for manager review.
 
