@@ -3,8 +3,7 @@
 
 **WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan**
 
-:robot: :robot: :octopus: :octopus: :robot: :robot: :octopus: :octopus: :robot: :robot: :octopus: :octopus: :robot: :robot: :octopus: :octopus: :robot: :robot: :octopus: :octopus: :robot: :robot: :octopus: :octopus:
-
+:robot: :robot: :octopus: :octopus: :wrench::wrench:
 ---
 
 **Ready to get started?**
