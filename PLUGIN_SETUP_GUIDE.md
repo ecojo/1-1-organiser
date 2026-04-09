@@ -1,4 +1,4 @@
-# Weekly 1:1 Updates Plugin — Setup Guide
+# Octopus Weekly 1:1 Updates Plugin — Setup Guide
 
 ## Overview
 
