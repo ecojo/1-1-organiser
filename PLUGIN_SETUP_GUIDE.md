@@ -89,15 +89,15 @@ After setup, your Confluence space looks like:
 
 ```
 Weekly Feedback (Space)
-├── David Hoffmann 1:1s
+├── David Hoffm 1:1s
 │   └── 2026
 │       ├── David Hoffmann - Manager 1:1 - 01 Apr 2026
 │       ├── David Hoffmann - Manager 1:1 - 08 Apr 2026
 │       └── ...
-├── Sarah Chen 1:1s
+├── Sarah Che 1:1s
 │   └── 2026
 │       └── ...
-└── Jordan Smith 1:1s
+└── Jordan Smi 1:1s
     └── 2026
         └── ...
 ```
@@ -131,7 +131,7 @@ Answers:
 - Email feedback folder: "Weekly Feedback"
 
 System creates:
-- Confluence folder structure (Weekly Feedback > David Hoffmann 1:1s > 2026 > pages)
+- Confluence folder structure (Weekly Feedback > David Hoffma 1:1s > 2026 > pages)
 - Scheduled tasks for each employee + manager
 
 **Monday 9am — Plugin auto-triggers**
