@@ -1,7 +1,7 @@
 # Octo 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
 
-**WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan**
+**WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan with your Manager/employees**
 
 :octopus: :wrench:
 ---
