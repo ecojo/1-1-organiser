@@ -1,5 +1,20 @@
 # 1-1-Organiser Plugin for Claude [Manager and Employee Mode]
 
+
+**WARNING: This will boost your weekly productivity and take stress out of organising your weeks work plan**
+
+---
+
+**Ready to get started?**
+
+For managers: Run the **Setup Wizard** skill to configure your team or simply drag and drop the weekly-1-1-updates.plugin into your **Claude Cowork task** to start the configuration setup wizard.
+
+For employees: Ask "Prep my 1:1" to generate your first update.
+
+For everyone: Let the skills run on schedule and enjoy your prepared 1:1 meetings!
+
+
+
 **Claude Connectors (requirements) :**
 
 Required:
@@ -17,15 +32,6 @@ Teams (for team notifications)
 
 [Full setup guide →](PLUGIN_SETUP_GUIDE.md)
 
----
-
-**Ready to get started?**
-
-For managers: Run the **Setup Wizard** skill to configure your team.
-
-For employees: Ask "Prep my 1:1" to generate your first update.
-
-For everyone: Let the skills run on schedule and enjoy your prepared 1:1 meetings!
 
 # Weekly 1:1 Updates Plugin
 
