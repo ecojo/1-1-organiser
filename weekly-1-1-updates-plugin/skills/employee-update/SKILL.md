@@ -42,9 +42,14 @@ The skill searches your email for messages from your manager that match the feed
 
 It pulls the latest message and extracts:
 - Feedback on your performance/work
+- **Next steps & expectations** — Used to identify which tickets align with Marc's priorities (marked with :logo_align: icon)
 - Alignment/priority expectations
 - Any action items for you
 - Anything else your manager flagged for discussion
+
+**Alignment detection:** Tickets in your Jira board are mapped to the "next steps" from Marc's feedback email. If a ticket belongs to one of Marc's stated priorities, add the :logo_align: emoji to that row.
+
+**Priority detection:** Jira tickets with `priority = Low` get the :low: emoji added to their row.
 
 ### Confluence Context
 
@@ -57,39 +62,56 @@ This gives you continuity and ensures nothing falls through the cracks.
 
 ### Generating the Summary
 
-The skill synthesizes all three data sources into a structured summary organized as:
+The skill synthesizes all three data sources into a structured update for your @David Hoffmann section:
 
 ```
-## Weekly Update for [Your Name] - [Date]
+@David Hoffmann
 
-### Accomplishments This Week
-- [Key completions from JIRA]
-- [Highlights from manager feedback if any]
+**Data source:** Jira (X tickets), Marc's email feedback (date), Slack, Confluence
 
-### Current Work in Progress
-- [Active tickets/projects]
+## Ticket Update Table
 
-### Blockers or Concerns
-- [Any blockers noted in JIRA or feedback]
+| Ticket | Summary | Status | Notes |
+|--------|---------|--------|-------|
+| | **Issues / Blockers** | | |
+| [ticket key] | [summary] | [status] | [notes] |
+| | **Completed This Week** | | |
+| [ticket key] | [summary] | Done | [notes] |
+| | **Pre-research / In Progress** | | |
+| [ticket key] | [summary] | [status] | [notes] |
 
-### Manager Feedback & Alignment
-[Content from manager feedback email summarized]
+**Alignment icons:** Add :logo_align: to ticket row if it maps to Marc's "next steps" from his feedback email
+**Priority icons:** Add :low: to ticket row if Jira priority field = Low
 
-### Discussion Points for 1:1
-- [Topics extracted from above]
-- [Carryover items from last week]
-- [Any questions or topics you flag]
+## Slack / General Notes
+
+_Last 7 days_
+
+- [bullet from Slack activity]
+- [bullet from Slack activity]
+- [bullet from Slack activity]
 ```
 
 ### Creating/Updating the Page
 
-The skill writes this summary to your Confluence 1:1 page. You receive the page URL and can:
-- Review the generated content
-- Edit anything before your meeting
-- Add notes or personal context
-- Share it with your manager if needed
+The skill reads your existing Confluence 1:1 page, extracts Marc's section (everything after the `---` divider), then updates your @David Hoffmann section with fresh data while preserving the divider and Marc's notes:
 
-The page is created with permissions set to manager + you only (private).
+1. **Read existing page** — Extract Marc's section and the divider
+2. **Generate your section** — Create the updated Ticket Update Table + Slack notes
+3. **Write back to page:**
+   ```
+   @David Hoffmann
+   
+   [generated section above]
+   
+   ---
+   
+   @Marc Garcia
+   
+   [existing Marc section from previous page]
+   ```
+
+The page is created/updated with permissions set to manager + you only (private).
 
 ## Running the Skill
 
